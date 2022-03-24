@@ -608,12 +608,6 @@ C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Pr
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\Blazor_Server_Project.Client.AssemblyInfo.cs
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\Blazor_Server_Project.Client.csproj.CoreCompileInputs.cache
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\Blazor_Server_Project.Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\e2MT8jiu.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\DiakInE1.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\GtR+fAs+.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\cmpOrIJB.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\Vp8eqztT.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\aAU7AL+4.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\vFDez4iS.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\93Et5GHt.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\Ou4Hl8Nc.gz
@@ -625,11 +619,8 @@ C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Pr
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\uEH4X4Gs.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\rI2KIQ4O.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\CJTbg+vb.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\RdrnOKQu.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\7CxbzZxl.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\sSaGIPQ+.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\2VtFoEFM.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\JRzL1jyy.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\wmy3FT4u.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\7ZtYijrY.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\AqPGOewP.gz
@@ -808,7 +799,6 @@ C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Pr
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\h5G5N5rU.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\UBQgKQCH.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\DUNGHJP7.gz
-C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\diyNp+8k.gz
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\blazor.boot.json
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\staticwebassets.development.json
@@ -821,3 +811,13 @@ C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Pr
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\refint\Blazor_Server_Project.Client.dll
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\Blazor_Server_Project.Client.pdb
 C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\ref\Blazor_Server_Project.Client.dll
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\GI1XrUPq.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\5ewDCUJW.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\JdKkNark.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\WYHhNow6.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\eTe24Ziq.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\Qpq5cVHv.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\+gp++TI5.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\0VRIO5Fg.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\Jo3GC+Ow.gz
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Client\obj\Debug\net6.0\build-gz\06QBM7au.gz
