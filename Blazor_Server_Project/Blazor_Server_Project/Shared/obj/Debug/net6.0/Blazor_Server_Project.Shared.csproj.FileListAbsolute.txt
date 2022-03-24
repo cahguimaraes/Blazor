@@ -1,0 +1,12 @@
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\bin\Debug\net6.0\Blazor_Server_Project.Shared.deps.json
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\bin\Debug\net6.0\Blazor_Server_Project.Shared.dll
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\bin\Debug\net6.0\Blazor_Server_Project.Shared.pdb
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.csproj.AssemblyReference.cache
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.AssemblyInfoInputs.cache
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.AssemblyInfo.cs
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.csproj.CoreCompileInputs.cache
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.dll
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\refint\Blazor_Server_Project.Shared.dll
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\Blazor_Server_Project.Shared.pdb
+C:\Users\cguimaraes\Documents\Labs\Blazor\Blazor_Server_Project\Blazor_Server_Project\Shared\obj\Debug\net6.0\ref\Blazor_Server_Project.Shared.dll
