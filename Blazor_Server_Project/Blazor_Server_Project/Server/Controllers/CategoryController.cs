@@ -31,6 +31,8 @@ namespace Blazor_Server_Project.Server.Controllers
         [HttpPost]
         public async Task<ActionResult<Category>> CreateCategory(Category category)
         {
+
+            category.CategoryCreatedAt = DateTime.Now;
             context.Add(category);
             await context.SaveChangesAsync();
 
