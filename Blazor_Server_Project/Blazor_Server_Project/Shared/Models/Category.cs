@@ -12,7 +12,7 @@ namespace Blazor_Server_Project.Shared.Models
 
         [Required(ErrorMessage = " Category Description is required")]
         [MaxLength(200)]
-        public string CategoryDescrtiption { get; set; }
+        public string CategoryDescription { get; set; }
 
         public DateTime CategoryCreatedAt { get; set; }
 
