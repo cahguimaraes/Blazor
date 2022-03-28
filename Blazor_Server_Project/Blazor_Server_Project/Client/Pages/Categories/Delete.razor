@@ -1,0 +1,45 @@
+﻿@*@page "/Category/delete/{categoryId:int}"
+@inject HttpClient http
+@inject NavigationManager navigation
+
+<h3>Delete a Category</h3>
+
+<CategoryForm Category="@category" ButtonTextSubmit="Delete" ButtonTextCancel="Cancel" SubmitOk="DeleteCategory"/>
+
+<Confirm @ref="confirm" OnCancel="@CancelConfirm" OnSubmit="@DeleteConfirm(categoryId)">
+    <div> Are you sure, do you want to delete this?</div>
+</Confirm>
+
+@code {
+    [Parameter]
+    public int categoryId { get; set; }
+    int codCategory;
+
+    Category category = new Category();
+    Confirm confirm;
+
+    protected async override Task OnParametersSetAsync()
+    {
+        category = await http.GetFromJsonAsync<Category>($"api/category/{categoryId}");
+    }
+
+    void DeleteConfirm(int categoryId)
+    {
+        confirm.Show();
+        codCategory = categoryId;
+
+    }
+
+    async Task DeleteCategory()
+    {
+        await http.DeleteAsync($"api/Category/{categoryId}");
+        confirm.Hide();
+        navigation.NavigateTo("Category");
+    }
+
+    void CancelConfirm()
+    {
+        confirm.Hide();
+    }
+}
+*@

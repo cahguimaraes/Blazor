@@ -22,8 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/CategoryForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/Confirm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDb25maXJtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cguimaraes/Documents/Labs/Blazor/Blazor_Server_Project/Blazor_Server_Project/Client/Pages/Categories/Index.razor]

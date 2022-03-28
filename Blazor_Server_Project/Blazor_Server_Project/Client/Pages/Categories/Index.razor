@@ -1,31 +1,32 @@
 ﻿@page "/category"
 @inject HttpClient http
+@inject NavigationManager navigation
 
 <h3>Category</h3>
 
 
 @if (categories is null)
 {
-        <p><em>Loading...</em></p>
+    <p><em>Loading...</em></p>
 }
 else if (categories.Length == 0)
 {
-        <p><em>Please, create one category...</em></p>
+    <p><em>Please, create one category...</em></p>
 }
 else
 {
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th scope="col">Id</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Description</th>
-                    <th scope="col">CreatedAt</th>
-                    <th scope="col">Edit</th>
-                    <th scope="col">Delete</th>
-                </tr>
-            </thead>
-            <tbody>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">CreatedAt</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
             @foreach (var cat in categories)
             {
                 <tr>
@@ -34,23 +35,36 @@ else
                     <td>@cat.CategoryDescription</td>
                     <td>@cat.CategoryCreatedAt</td>
                     <td>
-                        <a class="btn btn-primary">Edit</a>
+                        <a class="btn btn-primary" href="category/edit/@cat.CategoryId">Edit</a>
                     </td>
                     <td>
-                        <a class="btn btn-danger">Delete</a>
+                        <a class="btn btn-danger" @onclick="@(()=> DeleteCategory(cat.CategoryId))">Delete</a>
                     </td>
                 </tr>
             }
-            </tbody>
-            <div>
-                <a class="btn btn-success" href="Category/Create">Add</a>
-            </div>
-        </table>
-    }
+        </tbody>
+        <div>
+            <a class="btn btn-success" href="Category/Create">Add new Category</a>
+        </div>
+
+        <Confirm
+        @ref="confirm" 
+        Title="Delete"
+        OnCancel="@CancelConfirm"
+        OnSubmit="@DeleteConfirm"
+        ButtonTextCancel="Cancel"
+        ButtonTextSubmit="Delete">
+
+            <div> Are you sure, do you want to delete this item?</div>
+        </Confirm>
+
+    </table>
+}
 
 @code {
     Category[] categories { get; set; }
-
+    Confirm confirm { get; set; }
+     
     protected override async Task OnInitializedAsync()
     {
         await LoadCategories();
@@ -59,5 +73,24 @@ else
     async Task LoadCategories()
     {
         categories = await http.GetFromJsonAsync<Category[]>("api/Category");
+    }
+    int codCategory;
+
+    void DeleteCategory(int categoryId)
+    {
+        confirm.Show();
+        codCategory = categoryId;
+    }
+
+    async void DeleteConfirm()
+    {
+        await http.DeleteAsync($"api/Category/{codCategory}");
+        confirm.Hide();
+        await LoadCategories();
+    }
+
+    void CancelConfirm()
+    {
+        confirm.Hide();
     }
 }
